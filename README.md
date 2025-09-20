@@ -82,26 +82,26 @@ php artisan serve
     dashboard/ → dashboards
 
         * User:
-            ![Dashboard user](assets/screenshots/dashboard-user.png)
-        
+<img width="1365" height="599" alt="dashboard-user" src="https://github.com/user-attachments/assets/033d19fc-16dc-4899-b83d-14cf4d56d26b" />
+
         * Instructor:
-            ![Dashboard instructor](assets/screenshots/dashboard-instructor.png)
+<img width="1365" height="590" alt="dashboard-instructor" src="https://github.com/user-attachments/assets/08748db8-2dc9-4a35-a930-35eef2768893" />
 
     courses/user/ → vistas de cursos para usuarios
 
         * Show (user):
-            ![Show User](assets/screenshots/show-user.png)
+<img width="1365" height="601" alt="show-user" src="https://github.com/user-attachments/assets/16609531-f72f-4955-a163-d03f1f5efb66" />
 
     courses/instructor/ → vistas de cursos para instructores
 
         * Show (instructor):
-            ![Show Instructor](assets/screenshots/show-instructor.png)
+<img width="1364" height="590" alt="show-instructor" src="https://github.com/user-attachments/assets/57b1585a-f546-4dc8-9c90-eb4ea40a6c02" />
 
         * Create (instructor):
-            ![Create Instructor](assets/screenshots/create-instructor.png)
+<img width="1362" height="571" alt="create-instructor" src="https://github.com/user-attachments/assets/e1ed543a-e02c-4d0d-a16d-194931a1b502" />
 
         * Edit (instructor):
-            ![Edit Instructor](assets/screenshots/edit-instructor.png)
+<img width="1364" height="592" alt="edit-instructor" src="https://github.com/user-attachments/assets/d7bae1cd-0d24-4e97-8cfa-fca767559ed2" />
 
 - **routes/web.php**
 
