@@ -82,26 +82,26 @@ php artisan serve
     dashboard/ → dashboards
 
         * User:
-            ![Dashboard user](resources/assets/screenshots/dashboard-user.png)
+            ![Dashboard user](assets/screenshots/dashboard-user.png)
         
         * Instructor:
-            ![Dashboard instructor](resources/assets/screenshots/dashboard-instructor.png)
+            ![Dashboard instructor](assets/screenshots/dashboard-instructor.png)
 
     courses/user/ → vistas de cursos para usuarios
 
         * Show (user):
-            ![Show User](resources/assets/screenshots/show-user.png)
+            ![Show User](assets/screenshots/show-user.png)
 
     courses/instructor/ → vistas de cursos para instructores
 
         * Show (instructor):
-            ![Show Instructor](resources/assets/screenshots/show-instructor.png)
+            ![Show Instructor](assets/screenshots/show-instructor.png)
 
         * Create (instructor):
-            ![Create Instructor](resources/assets/screenshots/create-instructor.png)
+            ![Create Instructor](assets/screenshots/create-instructor.png)
 
         * Edit (instructor):
-            ![Edit Instructor](resources/assets/screenshots/edit-instructor.png)
+            ![Edit Instructor](assets/screenshots/edit-instructor.png)
 
 - **routes/web.php**
 
